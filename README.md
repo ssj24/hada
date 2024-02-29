@@ -4,7 +4,7 @@ todo application
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+tada는 플러터로 만든 투두리스트 서비스입니다.
 
 A few resources to get you started if this is your first Flutter project:
 
