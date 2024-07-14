@@ -3,6 +3,10 @@ import 'package:provider/provider.dart';
 import 'package:tada/models/task_data.dart';
 import 'package:tada/screens/tasks_screen.dart';
 
+// const String appGroupId = 'com.tebahsoft.hada.hadaWIdgets';
+// const String iOSWidgetName = 'hadaWidgets';
+// const String androidWidgetName = 'SimpleTodoWidget';
+
 void main() {
   runApp(const MyApp());
 }
